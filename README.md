@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app devel
 
 ### Cricket-Clans
 
-- 📱 **Description**: An elegant calculator app with a modern neumorphic user interface. It supports basic arithmetic operations and provides a delightful user experience.
+- 📱 **Description**: The Cricket Clans, where a cricket athuist can Create and Jion the on going various tournaments and remain updated with ongoing scenarios of the tournaments.
 - 📂 **GitHub Repo**: [Cricket-Clans](https://github.com/AsifAli119/cricket-clans-flutter)
 
 ### Music App
