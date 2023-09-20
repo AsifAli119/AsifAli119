@@ -1,30 +1,53 @@
-### Hi there, I'm Asif Ali Sheikh 👋
+# Hi there, I'm Asif Ali Sheikh! 👋
 
-#### Android Developer | Passionate about building awesome apps
+## Android Developer turned Flutter Enthusiast
 
-Welcome to my GitHub profile! I'm Asif Ali Sheikh, an enthusiastic Android developer with a knack for creating innovative and user-friendly mobile applications. I love exploring new technologies and experimenting with different design patterns.
+Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app developer, transitioned to Flutter. I love building awesome apps and exploring the world of cross-platform development.
 
-🚀 Some of my notable projects:
+### About Me
 
-🏠 **On Demand Home Service**: An Android app that connects users with local service providers for various home services. It allows users to easily book appointments, browse service categories, and provide feedback.
+- 💼 **Profession**: Android Developer turned Flutter Developer
+- 🚀 **Skills**: Dart, Flutter, Java, Kotlin, Android
+- 🔗 **LinkedIn**: [linkedin.com/in/asifali](https://www.linkedin.com/in/asif-ali-72546b224/)
+- 🎥 **YouTube**: [KashCoder-rd6ck](https://www.youtube.com/watch?v=nqZbgTRIhTw) 
 
-🏏 **Cricket Clans**: An app dedicated to cricket enthusiasts, providing real-time updates, match scores, player statistics, and news from the world of cricket. Stay up to date with your favorite teams and players!
+## Projects
 
-✅ **Todo App**: A simple and intuitive to-do list application for Android. It helps users stay organized by managing their daily tasks and priorities.
+### Social Media Login Integration
 
-🧮 **Calculator with Neumorphic Design**: An elegant calculator app with a modern neumorphic user interface. It supports basic arithmetic operations and provides a delightful user experience.
+- 📱 **Description**: An example Flutter project demonstrating how to integrate social media login functionality into your app. It includes authentication with platforms like Google, Facebook, and Twitter.
+- 📂 **GitHub Repo**: [social-media-login-flutter](https://github.com/AsifAli119/social-media-login-flutter)
 
-🎵 **Music App**: A feature-rich music player app for Android, offering a seamless audio playback experience. Users can create playlists, browse their music library, and enjoy their favorite tunes on the go.
+### Quiz App
 
-📉 **Converter App**: An Android app that allows users to convert between different units and measurements effortlessly. It supports conversions for length, weight, temperature, and more.
+- 📱 **Description**: A Flutter-based quiz app that allows users to take quizzes on various topics. Users can answer questions, get instant feedback, and view their quiz history.
+- 📂 **GitHub Repo**: [quiz-app-flutter](https://github.com/AsifAli119/quiz-app-flutter)
 
-🌱 I'm constantly learning and exploring new technologies to enhance my skills as an Android developer. If you have any suggestions or would like to collaborate on an exciting project, feel free to reach out!
+### Grocery App
 
-📫 Let's connect:
+- 📱 **Description**: A Flutter-based grocery shopping app that simplifies the process of buying groceries. Users can browse products, add them to their cart, and calculate the total cost.
+- 📂 **GitHub Repo**: [grocery-app-flutter](https://github.com/AsifAli119/grocery-app-flutter)
 
-- LinkedIn: [linkedin.com/in/asifali](https://www.linkedin.com/in/asif-ali-72546b224/)
-- Youtube: [@19hackers15](https://www.youtube.com/channel/UCOagiV41T1XrnSiQJSgK68Q)
+### Todo App
 
-👀 Feel free to explore my repositories and contribute to any open-source projects that catch your interest. Don't hesitate to contact me if you have any questions or ideas. Let's build something amazing together!
+- 📱 **Description**: A simple and intuitive to-do list application for Android and iOS built with Flutter. It helps users stay organized by managing their daily tasks and priorities.
+- 📂 **GitHub Repo**: [todo-app-flutter](https://github.com/AsifAli119/todo-app-flutter)
 
+### Calculator with Neumorphic Design
 
+- 📱 **Description**: An elegant calculator app with a modern neumorphic user interface. It supports basic arithmetic operations and provides a delightful user experience.
+- 📂 **GitHub Repo**: [neumorphic-calculator-flutter](https://github.com/AsifAli119/neumorphic-calculator-flutter)
+
+### Music App
+
+- 📱 **Description**: A feature-rich music player app for Android and iOS built with Flutter. Users can create playlists, browse their music library, and enjoy their favorite tunes on the go.
+- 📂 **GitHub Repo**: [music-app-flutter](https://github.com/AsifAli119e/music-app-flutter)
+
+### Converter App
+
+- 📱 **Description**: An Android and iOS app built with Flutter that allows users to convert between different units and measurements effortlessly. It supports conversions for length, weight, temperature, and more.
+- 📂 **GitHub Repo**: [converter-app-flutter](https://github.com/AsifAli119/converter-app-flutter)
+
+## Let's Connect!
+
+I'm always eager to collaborate on exciting projects and learn new things. If you have any suggestions, questions, or ideas, feel free to reach out. Let's build something amazing together!
