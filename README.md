@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app devel
 - 📱 **Description**: A simple and intuitive to-do list application for Android and iOS built with Flutter. It helps users stay organized by managing their daily tasks and priorities.
 - 📂 **GitHub Repo**: [todo-app-flutter](https://github.com/AsifAli119/todo-app-flutter)
 
-### Calculator with Neumorphic Design
+### Cricket-Clans
 
 - 📱 **Description**: An elegant calculator app with a modern neumorphic user interface. It supports basic arithmetic operations and provides a delightful user experience.
-- 📂 **GitHub Repo**: [neumorphic-calculator-flutter](https://github.com/AsifAli119/neumorphic-calculator-flutter)
+- 📂 **GitHub Repo**: [Cricket-Clans](https://github.com/AsifAli119/cricket-clans-flutter)
 
 ### Music App
 
