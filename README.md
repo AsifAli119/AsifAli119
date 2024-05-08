@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app devel
 ### Social Media Login Integration
 
 - 📱 **Description**: An example Flutter project demonstrating how to integrate social media login functionality into your app. It includes authentication with platforms like Google, Facebook, and Twitter.
-- 📂 **GitHub Repo**: [social-media-login-flutter](https://github.com/AsifAli119/social-media-login-flutter)
+- 📂 **GitHub Repo**: [social-media-login-flutter](https://github.com/AsifAli119/Spark-GRIP23-Socialmedia-integration)
 
 ### Quiz App
 
