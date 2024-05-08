@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app devel
 
 ## Projects
 ### Wallpaper App
-📱 Description: A wallpaper app for Android and iOS built with Flutter. Users can browse through a collection of high-quality wallpapers, set them as their device - wallpaper, and save their favorites.
+- 📱 Description: A wallpaper app for Android and iOS built with Flutter. Users can browse through a collection of high-quality wallpapers, set them as their device - wallpaper, and save their favorites.
 - 📂 **GitHub Repo**: [wallpaper-app](https://github.com/AsifAli119/Coding-Wallpaper-App)
 ### Social Media Login Integration
 
