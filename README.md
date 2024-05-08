@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Asif Ali Sheikh, a passionate mobile app devel
 ### Quiz App
 
 - 📱 **Description**: A Flutter-based quiz app that allows users to take quizzes on various topics. Users can answer questions, get instant feedback, and view their quiz history.
-- 📂 **GitHub Repo**: [quiz-app-flutter](https://github.com/AsifAli119/quiz-app-flutter)
+- 📂 **GitHub Repo**: [quiz-app-flutter](https://github.com/AsifAli119/OIBSIP-Quiz-App)
 
 ### Grocery App
 
